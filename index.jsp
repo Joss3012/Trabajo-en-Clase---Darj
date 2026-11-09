@@ -22,6 +22,7 @@
             <li><a class="active" href="index.jsp">Home</a></li>
             <li><a href="productos.jsp">Productos</a></li>
             <li><a href="servicios.jsp">Servicios</a></li>
+            <li><a href="modelos3d.jsp">Modelos 3D</a></li>
             <li><a href="contacto.jsp">Contacto</a></li>
         </ul>
     </nav>
@@ -47,7 +48,7 @@
             <p>Conoce a los desarrolladores</p>
             <a href="https://ec.linkedin.com/" target="_blank">Linkedin</a>
             <br>
-            <a href="https://github.com/Joss3012/venta_producto.git" target="_blank">GitHub</a>
+            <a href="https://github.com/Joss3012/Trabajo-en-Clase---Darj" target="_blank">GitHub</a>
             <img src="iconos/git.png" alt="GitHub" width="50">
         </aside>
     </div>
